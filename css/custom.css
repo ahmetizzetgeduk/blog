@@ -1,0 +1,28 @@
+.nav-item{
+    
+}
+#slogan{
+    color:red!important;
+}
+.nav-item .nav-link{
+    color:black!important;
+}
+.galeri .col-md-4{display:flex;}
+.galeri .col-md-4 img{
+    display:flex;
+    height: 100%;
+    max-width:inherit;
+}
+.container{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.navbar{
+    max-height: 100px;
+}
+
+footer,.footer{
+    padding-left:50px;
+    padding-right: 50px;
+    background-color:#dee2e6!important;
+}
