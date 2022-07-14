@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php include("ayar/ayar.php");?>
 <html lang="tr">
 <head>
     <style>
@@ -14,7 +15,7 @@
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="author" content="" />
-    <title>AMD Forum</title>
+    <title><?php echo $ayarlar['site_basligi'];?></title>
     <link href="/css/styles.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/all.min.css">
     <link rel="stylesheet" href="/css/custom.css">

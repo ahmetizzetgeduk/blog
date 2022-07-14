@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
+    <?php include("../ayar/ayar.php");?>
     <style>
         body {
             background-image: url("images/blogwpp.png");
@@ -14,7 +15,7 @@
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="author" content="" />
-    <title>AMD Forum - İletişim Sayfası</title>
+    <title><?php echo $ayarlar['site_basligi'];?></title>
     <link href="/css/styles.css" rel="stylesheet" />
     <link rel="stylesheet" href="/css/all.min.css">
     <link rel="stylesheet" href="/css/custom.css">

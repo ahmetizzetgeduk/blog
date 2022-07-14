@@ -8,9 +8,7 @@ include 'sablonlar/navbar.php'?>
         <div class="col-lg-8">
             <!-- İlk içerim bölümü-->
             <div class="card mb-4" style="border:2px solid #F00; background-color: rgb(214, 214, 214)">
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.6947107773613!2d29.32563685060434!3d40.658659579236314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cae360558857f1%3A0x459c1ea8172017f4!2zw4dpZnRsaWssIMOHYW1sxLFjYSBTay4sIDc3NjAwIMOHaWZ0bGlra8O2eS9ZYWxvdmE!5e0!3m2!1str!2str!4v1628877127121!5m2!1str!2str"
-                    width="732" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+               <?php echo $ayarlar['harita']; ?>
             </div>
             <div class="card mb-4" style="border:2px solid #F00; background-color: rgb(214, 214, 214);">
                 <!--iletişim-->
