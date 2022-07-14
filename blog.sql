@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Anamakine: 127.0.0.1
--- Üretim Zamanı: 14 Tem 2022, 16:53:17
+-- Üretim Zamanı: 14 Tem 2022, 16:55:29
 -- Sunucu sürümü: 10.1.36-MariaDB
 -- PHP Sürümü: 5.6.38
 
@@ -38,7 +38,7 @@ CREATE TABLE `ayarlar` (
 --
 
 INSERT INTO `ayarlar` (`site_basligi`, `harita`) VALUES
-('BENİM BLOĞUM', '<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.744338482727!2d29.272553715654276!3d40.65756574888034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cae52966ae1bc3%3A0x7816415b1150787f!2sYalova%20Belediyesi!5e0!3m2!1str!2str!4v1657809439874!5m2!1str!2str\" width=\"100%\" height=\"550\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>');
+('BENİM BLOĞUM', '<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48126.009310341826!2d28.987312679790737!3d41.07171219923872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab63f6f8193f1%3A0x36c864a929a1018c!2zQmXFn2lrdGHFny_EsHN0YW5idWw!5e0!3m2!1str!2str!4v1657810501881!5m2!1str!2str\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>');
 
 -- --------------------------------------------------------
 
